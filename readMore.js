@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
     readMoreButtons.forEach(button => {
         button.addEventListener("click", function() {
             // Open fylehq.com in a new tab
-            window.open("https://fylehq.com", "_blank");
+            window.open("https://www.google.co.in/", "_blank");
         });
     });
 });
